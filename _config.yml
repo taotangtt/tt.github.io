@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tao Tang, Math Ph.D"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tang Tao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,19 +24,14 @@ author:
   avatar           : "profile.png"
   name             : Tao Tang
   pronouns         : he/him
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : 
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : Duke Math Ph.D
+  employer         : Chicago Trading Company
+  email            : "taotang418@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=NuiSuFgAAAAJ&hl=zh-CN"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -56,7 +51,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/tao-tang-433519227/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
