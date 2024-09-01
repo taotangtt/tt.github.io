@@ -21,7 +21,7 @@ Work experience
 
 
 * 2022.06-2022.08: Quantitative Researcher Intern
-  * Citadel Scurities, Vol Overlay
+  * Citadel Scurities
 
 
 
