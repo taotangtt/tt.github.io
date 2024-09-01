@@ -12,7 +12,7 @@ title                    : "Tao Tang, Math Ph.D"
 title_separator          : "-"
 name                     : &name "Tang Tao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://taotangtt.github.io/tt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taotangtt.github.io/tt.github.io/"
 
